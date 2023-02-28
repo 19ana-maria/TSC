@@ -9,4 +9,5 @@ megit
 	git config --global user.email "your_email_address@example.com"
 3) To check the configuration, run:
 	git config --global --listgit
-    4. e
+    4. git config --global credential.helper store
+    5) ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
