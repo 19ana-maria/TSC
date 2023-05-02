@@ -1,0 +1,138 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Windows/System32
+vinstr_register
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 18 instr_register_pkg 0 22 7dOROnDPQGXRm7j@ae`F30
+Z3 !s110 1682282143
+!i10b 1
+!s100 >h>ik8mQ=:PXR9o6d8U@d0
+Ii@CE0z=ec=daGCPEOQWRz0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 instr_register_sv_unit
+S1
+Z5 dC:/WINDOWS/system32
+w1679866933
+8C:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register.sv
+FC:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register.sv
+L0 9
+Z6 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1682282143.000000
+!s107 C:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register.sv|
+!s90 -reportprogress|300|-work|work|-O0|C:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register.sv|
+!s101 -O0
+!i113 1
+Z8 o-work work -O0
+Z9 tCvgOpt 0
+Xinstr_register_pkg
+R1
+!s110 1682282200
+!i10b 1
+!s100 :d3O9o]dIX]TDe50g:VBF2
+IF>RWYnaeSK<HancVZSXYJ0
+VF>RWYnaeSK<HancVZSXYJ0
+S1
+R0
+w1678691283
+8C:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register_pkg.sv
+FC:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register_pkg.sv
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1682282200.000000
+!s107 C:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register_pkg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/annam/Desktop/tsc lab6/lab_dut/instr_register_pkg.sv|
+!s101 -O0
+!i113 1
+R8
+R9
+vinstr_register_test
+R1
+R2
+R3
+!i10b 1
+!s100 Bn22hj=c9dMKc3;bWak430
+I?`1oVI@;=f:3JQ1HB@1Ei1
+R4
+!s105 instr_register_test_sv_unit
+S1
+R5
+w1682281925
+8C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/instr_register_test.sv
+FC:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/instr_register_test.sv
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/instr_register_test.sv|
+!s90 -reportprogress|300|-work|work|-O0|C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/instr_register_test.sv|
+!s101 -O0
+!i113 1
+R8
+R9
+Ytb_ifc
+R1
+DXx4 work 18 instr_register_pkg 0 22 F>RWYnaeSK<HancVZSXYJ0
+!s110 1682282213
+!i10b 1
+!s100 V:E<ojA?n[XVmAYU3J[NH3
+I8o@EAWAKeHO1BFg;@oTh03
+R4
+!s105 tb_ifc_sv_unit
+S1
+R0
+w1679900792
+8C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/tb_ifc.sv
+FC:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/tb_ifc.sv
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1682282213.000000
+!s107 C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/tb_ifc.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/tb_ifc.sv|
+!s101 -O0
+!i113 1
+R8
+R9
+vtop
+R1
+R2
+!s110 1682282146
+!i10b 1
+!s100 ^2oHm[5g^Gnm`HRA;;1le3
+I@hj7hH1L>6<>[hnBWno^j0
+R4
+!s105 top_sv_unit
+S1
+R5
+w1679900724
+8C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/top.sv
+FC:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/top.sv
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1682282146.000000
+!s107 C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/top.sv|
+!s90 -reportprogress|300|-work|work|-O0|C:/Users/annam/Desktop/tsc lab6/lab01_testbench-interface/top.sv|
+!s101 -O0
+!i113 1
+R8
+R9
